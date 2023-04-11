@@ -35,6 +35,20 @@
   color: #333333;
   background-color: #ffffff;
 }
+.advantages-list-text-wrapper {
+  padding: 33px 18px 23px;
+}
+.site-list__link {
+  display: block;
+  padding: 17px 15px 12px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #81b3d2;
+}
 .button {
   background-color: #81b3d2;
   border: none;
@@ -49,17 +63,6 @@
 .main-header__logo-image {
   display: block;
   margin: 0 auto;
-}
-.site-list__link {
-  display: block;
-  padding: 17px 15px 12px;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 26px;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #ffffff;
-  background-color: #81b3d2;
 }
 .main-header__list {
   margin: 0;
@@ -125,9 +128,6 @@
 }
 .advantages-list__image {
   display: block;
-}
-.advantages-list-text-wrapper {
-  padding: 33px 18px 23px;
 }
 .advantages-list__subtitle {
   margin: 0;
